@@ -8,5 +8,4 @@ Word Cloud:
 ![WordCloud](https://github.com/AlexMorris10x/AIJobsDisruption/blob/master/OccupationWordCloud.png?raw=true)
 
 Frequency Distribution Chart Of Words:
-![FrequencyDistributionOfWords](https://github.com/AlexMorris10x/AIJobsDisruption/blob/master/FrequencyDistributionOfWords.png
-?raw=true)
+![FrequencyDistributionOfWords](https://github.com/AlexMorris10x/AIJobsDisruption/blob/master/FrequencyDistributionOfWords.png?raw=true)
